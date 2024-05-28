@@ -1,0 +1,43 @@
+fixin slots=20
+macon slots=8
+#27
+givry slots=24
+ile slots=24
+#gigondas slots=20
+#64
+madiran slots=24
+auxey slots=24
+sancerre slots=20
+bandol slots=10
+#125
+castillon slots=24
+valencay slots=8
+ausone slots=20
+brouilly slots=20
+#pinot slots=20
+#216
+graves slots=24
+froehn slots=10
+pomerol slots=20
+corbieres slots=24
+neac slots=24
+altenberg slots = 24
+medoc slots=8
+morgon slots=8
+volnay slots=8
+#343
+lussac slots=24
+#altenberg slots=24
+cerons slots=24
+#tibouren slots=24
+#auxey slots=24
+tavel slots=20
+crozes slots=20
+pauillac slots=10
+#agassac slots=24
+gevrey slots=20
+anglades slots=20
+#brouilly slots=20
+#crozes slots=20
+#512
+#4*10 + 7*24 +6*20 + 5*8
